@@ -1,0 +1,5 @@
+.idea
+# secrets
+exp_1/server/server.crt
+exp_1/server/server.csr
+exp_1/server/server.key
