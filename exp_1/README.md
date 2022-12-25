@@ -36,3 +36,4 @@ Browse to: `https://localhost/tester1-worker.html`
 ![img](./server/green.png)
 
 Disclaimer - I'm not using it in production or in a lib I'm maintaining.
+[Related blog post](https://lironhazan.medium.com/exp-1-sqlite3-wasm-in-private-origin-filesystem-browser-c7a048369f30)
