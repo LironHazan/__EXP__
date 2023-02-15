@@ -10,4 +10,4 @@ Build image:
 
 Interactively run the container:
 
-`docker run -it exp2:latest sh`
+`docker run -p 8080:80 exp2:latest`
